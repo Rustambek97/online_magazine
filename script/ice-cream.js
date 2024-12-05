@@ -18,7 +18,8 @@ let ice_cream_json = {
     17: { 'img': '17.png', 'name': 'Peach Perfect', 'price': 13000 },
     18: { 'img': '18.png', 'name': 'Tropical Fusion', 'price': 13500 },
     19: { 'img': '19.png', 'name': 'Berry Sorbet', 'price': 14500 },
-    20: { 'img': '20.png', 'name': 'Choco Lava', 'price': 15000 }
+    20: { 'img': '20.png', 'name': 'Choco Lava', 'price': 15000 },
+    21: { 'img': '20.png', 'name': 'Choco Sorbet', 'price': 85000 }
 };
 
 let product = document.querySelector('.product')
